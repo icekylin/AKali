@@ -6,8 +6,8 @@ Armed Kali Linux - Automate some configurations of kali
 ```bash
 git clone https://github.com/icekylin/AKali.git
 cd AKali
-python3 -m pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
-python3 akali.py
+sudo python3 -m pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
+sudo python3 akali.py
 ```
 
 **主要功能**
